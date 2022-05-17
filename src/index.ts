@@ -38,7 +38,7 @@ btnEnv.addEventListener("click", () => {
   console.log("El mayor es ", mayor);
 });
 
-/*Ejercicio recuperado del sitio Web CodeSandbox 
+/*Ejercicio recuperado (visto y leído) en el sitio Web CodeSandbox 
  Repositorio prof. Carlos Daniel Tonelli
 https://codesandbox.io/s/github/daniel-tonelli/Repositorio
 */
